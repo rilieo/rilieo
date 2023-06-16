@@ -1,6 +1,4 @@
-**Hi, I'm Riley**
-[![MasterHead](![github_bg](https://github.com/rilieo/rilieo/assets/94800352/532f7a37-7638-44b8-92a0-bb8752a6e6b2)
-)](your GitHub link)
+![2](https://github.com/rilieo/rilieo/assets/94800352/25056787-6782-4aa4-92fa-ebda7ee425de)
 
 <!--
 **rilieo/rilieo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
