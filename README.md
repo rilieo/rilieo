@@ -1,5 +1,6 @@
 **Hi, I'm Riley**
-![github_bg](https://github.com/rilieo/rilieo/assets/94800352/9ca5412c-f286-431c-b2d7-a794293efc5d)
+
+  <img align="right" alt="Coding" width="400" src="![github_bg](https://github.com/rilieo/rilieo/assets/94800352/8f6036ef-b885-4800-ab78-ec41b2bd4ffb)">
 
 <!--
 **rilieo/rilieo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
