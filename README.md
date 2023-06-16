@@ -1,4 +1,5 @@
-![2](https://github.com/rilieo/rilieo/assets/94800352/25056787-6782-4aa4-92fa-ebda7ee425de)
+
+![Hi, I'm Riley](https://github.com/rilieo/rilieo/assets/94800352/4c064bab-a763-429e-99cb-f3bedae289b9)
 
 <!--
 **rilieo/rilieo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
