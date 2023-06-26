@@ -3,6 +3,9 @@
 - 📚 I'm currently a student at New York University, studying math and computer science
 - 🥳 I like web development and artsy stuff
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **rilieo/rilieo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
