@@ -1,6 +1,7 @@
 
 ![Hi, I'm Riley](https://github.com/rilieo/rilieo/assets/94800352/4c064bab-a763-429e-99cb-f3bedae289b9)
-📚 I'm currently a student at New York University, studying math and computer science
+
+**📚 I'm currently a student at New York University, studying math and computer science**
 
 Some backend stuff I've worked with:
 - Redis
