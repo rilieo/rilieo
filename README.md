@@ -3,8 +3,8 @@
 
 **📚 I'm currently a student at New York University, studying computer science**
 
-![](https://raw.githubusercontent.com/rilieo/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/rilieo/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![h](https://raw.githubusercontent.com/rilieo/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![h](https://raw.githubusercontent.com/rilieo/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
