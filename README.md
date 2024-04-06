@@ -1,16 +1,12 @@
 
 ![Hi, I'm Riley](https://github.com/rilieo/rilieo/assets/94800352/4c064bab-a763-429e-99cb-f3bedae289b9)
 
-**📚 I'm currently a student at New York University, studying math and computer science**
+**📚 I'm currently a student at New York University, studying computer science**
 
-Some backend stuff I've worked with:
-- Redis
-- PostgreSQL
-- gRPC
-
-Some frontend stuff I've worked with:
-- React & react-boostrap
-- HTML/CSS
+![](https://raw.githubusercontent.com/rilieo/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/rilieo/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/rilieo/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/rilieo/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
