@@ -3,9 +3,11 @@
 
 **📚 I'm currently a student at New York University, studying computer science**
 
+<!--
+
 ![](https://github.com/rilieo/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/rilieo/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
-
+-->
 
 
 
