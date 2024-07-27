@@ -1,10 +1,10 @@
 
 ![Hi, I'm Riley](https://github.com/rilieo/rilieo/assets/94800352/4c064bab-a763-429e-99cb-f3bedae289b9)
 
+ <!--
 ![](https://github.com/rilieo/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/rilieo/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only)
-
-
+-->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
